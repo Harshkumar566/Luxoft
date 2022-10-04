@@ -1,0 +1,7 @@
+0191919191,John,Chennai,650
+0191919192,Peter,Mumbai,1100
+0191919193,Rose,Mumbai,453
+0191919194,Tom,Hyderabad,750
+0191919195,Raj,Chennai,120
+0191919196,Sam,Chennai,250
+0191919197,Anaya,Chennai,34
